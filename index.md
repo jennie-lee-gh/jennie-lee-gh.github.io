@@ -75,4 +75,4 @@ So, whether you're a barbecue novice or a grill connoisseur, Jennie's BBQ & Gril
 
 [Visit Fox Heights Pub and Grill](http://foxheightspubandgrill.com/)
 
-<iframe src="http://foxheightspubandgrill.com/" width="100%" height="500"></iframe>
+<iframe src='http://foxheightspubandgrill.com/' width='100%' height='100'></iframe>

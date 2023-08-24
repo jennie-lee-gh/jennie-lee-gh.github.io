@@ -30,7 +30,8 @@ done
 
 # Add the link and iframe to the given website
 echo -e "\n[Visit Fox Heights Pub and Grill](http://foxheightspubandgrill.com/)\n" >> index.md
-echo '<iframe src="http://foxheightspubandgrill.com/" width="100%" height="500"></iframe>' >> index.md
+echo '<iframe src='"'"'http://foxheightspubandgrill.com/'"'"' width='"'"'100%'"'"' height='"'"'100'"'"'></iframe>' >> index.md
+
 
 # Commit the changes to GitHub
 git add .
