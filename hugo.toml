@@ -1,8 +1,0 @@
-baseURL = 'http://jennie-lee-gh.github.io/'
-languageCode = 'en-us'
-title = 'Jennie Lee - Blog about BBQ & Grills Products'
-theme = "ananke"
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
