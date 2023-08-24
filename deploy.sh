@@ -1,5 +1,6 @@
 # deploy.sh
 #!/bin/bash
+export HUGO_ENV=production
 hugo
 cp -r public/* .
 git add .
