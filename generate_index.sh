@@ -1,37 +1,40 @@
 #!/bin/bash
 
-# Start with the blog intro
-cat > index.md << EOL
-## BBQ & Grills Blog - A Culinary Journey
-**Author**: Jennie Lee
+# Create index.md
+echo "# Jennie's BBQ & Grills Blog" > index.md
+echo "![Author Avatar](https://avatars.githubusercontent.com/u/131510772?v=4)" >> index.md
+echo "Welcome to Jennie Lee's BBQ & Grills blog. A space where grill enthusiasts come to gather, learn, and share experiences. Whether you're here to discover the intricacies of the best grilling techniques or to dive into insightful product reviews, there's something for every BBQ lover. With a burning passion (pun intended) for everything grill-related, Jennie delves into the world of BBQs, ensuring that her readers are equipped with the knowledge to have the best grilling experience." >> index.md
+echo "[Check out this awesome site!](http://foxheightspubandgrill.com/)" >> index.md
+echo '<iframe src='"'"'http://foxheightspubandgrill.com/'"'"' width='"'"'100%'"'"' height='"'"'500'"'"'></iframe>' >> index.md
 
-There's something primal and exciting about cooking food over an open flame. It's an art form that has been around for centuries and is an integral part of many cultures around the world. This is the essence that Jennie Lee captures in her BBQ & Grills blog.
-
-From the tantalizing aroma of smoked meats wafting through the air to the sizzle of vegetables on a hot grill, barbecuing is not just a method of cooking; it's an experience. And in her blog, Jennie delves deep into this culinary world, sharing tips, recipes, and stories that ignite passion and make mouths water.
-
-Each post is a new adventure, whether it's about mastering the perfect brisket, finding the right wood chips for smoking, or exploring the world of outdoor grills. Jennie's expertise and passion shine through, making it a must-read for both beginners and seasoned grill masters.
-
-For those who are eager to immerse themselves in the world of barbecuing, Jennie has also recommended the perfect spot to begin this journey: [Fox Heights Pub and Grill](http://foxheightspubandgrill.com/). It's a haven for BBQ enthusiasts and those keen on savoring some delectable grilled dishes.
-
-So, whether you're a barbecue novice or a grill connoisseur, Jennie's BBQ & Grills blog promises a flavorful journey that is both informative and delightful. Dive in and let the flavors envelop you!
-
-![Author Avatar](https://avatars.githubusercontent.com/u/131510772?v=4)
-
-EOL
-
-# List all the files in the directory
-for file in *; do
-  if [[ -f "$file" && "$file" != "index.md" ]]; then
-    # Remove the file extension to create the link
-    base_name=$(basename "$file" .md)
-    echo "- [$base_name](/$base_name)" >> index.md
-  fi
+# Add list of all markdown files (except index.md) to index.md
+for file in *.md; do
+    if [[ $file != "index.md" ]]; then
+        base_name=$(basename "$file" .md)
+        echo "- [${base_name}](/${base_name})" >> index.md
+    fi
 done
 
-# Add the link and iframe to the given website
-echo -e "\n[Visit Fox Heights Pub and Grill](http://foxheightspubandgrill.com/)\n" >> index.md
-echo '<iframe src='"'"'http://foxheightspubandgrill.com/'"'"' width='"'"'100%'"'"' height='"'"'100'"'"'></iframe>' >> index.md
+# Commit and push to GitHub
+git add .
+git commit -m "Update index.md with blog intro and file list"
+git push origin main
 
+# Create sitemap.xml
+echo '<?xml version="1.0" encoding="UTF-8"?>' > sitemap.xml
+echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' >> sitemap.xml
+
+# Add URLs for each markdown file
+for file in *.md; do
+    base_name=$(basename "$file" .md)
+    echo "  <url>" >> sitemap.xml
+    echo "    <loc>https://jennie-lee-gh.github.io/${base_name}</loc>" >> sitemap.xml
+    echo "    <changefreq>monthly</changefreq>" >> sitemap.xml
+    echo "    <priority>0.8</priority>" >> sitemap.xml
+    echo "  </url>" >> sitemap.xml
+done
+
+echo '</urlset>' >> sitemap.xml
 
 # Commit the changes to GitHub
 git add .
