@@ -58,3 +58,5 @@ Give your taste buds a treat they won't forget with this incredible smoked bread
 [smoked bread pudding](https://foxheightspubandgrill.com/post/smoked-bread-pudding)
 
 <iframe src='https://foxheightspubandgrill.com/post/smoked-bread-pudding' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

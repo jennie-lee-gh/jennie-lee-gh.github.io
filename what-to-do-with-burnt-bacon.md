@@ -47,3 +47,5 @@ Accidents in the kitchen can sometimes lead to unexpected culinary adventures. B
 [what to do with burnt bacon](https://foxheightspubandgrill.com/post/what-to-do-with-burnt-bacon)
 
 <iframe src='https://foxheightspubandgrill.com/post/what-to-do-with-burnt-bacon' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

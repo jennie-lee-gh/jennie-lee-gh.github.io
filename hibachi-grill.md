@@ -50,4 +50,8 @@ Hibachi grills offer an unforgettable dining adventure for those seeking flavor,
 
 [hibachi grill](https://foxheightspubandgrill.com/post/hibachi-grill)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/hibachi-grill' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

@@ -79,4 +79,8 @@ Bone marrow butter is a culinary treasure that offers both rich flavor and numer
 
 [bone marrow butter](https://foxheightspubandgrill.com/post/bone-marrow-butter)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/bone-marrow-butter' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

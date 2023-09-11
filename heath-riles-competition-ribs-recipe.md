@@ -64,4 +64,8 @@ So fire up your smoker, get your ribs ready, and let Heath Riles' Competition Ri
 
 [heath riles competition ribs recipe](https://foxheightspubandgrill.com/post/heath-riles-competition-ribs-recipe)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/heath-riles-competition-ribs-recipe' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

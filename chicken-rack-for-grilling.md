@@ -58,4 +58,8 @@ Remember to always follow proper grilling and food safety practices when using a
 
 [chicken rack for grilling](https://foxheightspubandgrill.com/post/chicken-rack-for-grilling)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/chicken-rack-for-grilling' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

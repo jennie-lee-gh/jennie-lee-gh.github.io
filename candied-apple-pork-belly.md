@@ -75,4 +75,8 @@ Indulge in the gastronomic marvel that is the candied apple pork belly—a dish 
 
 [candied apple pork belly](https://foxheightspubandgrill.com/post/candied-apple-pork-belly)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/candied-apple-pork-belly' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

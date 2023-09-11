@@ -76,3 +76,5 @@ Whole smoked gator is an adventurous dish that transforms any ordinary cookout i
 [Whole Smoked Gator Recipe](https://foxheightspubandgrill.com/post/Whole-Smoked-Gator-Recipe)
 
 <iframe src='https://foxheightspubandgrill.com/post/Whole-Smoked-Gator-Recipe' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

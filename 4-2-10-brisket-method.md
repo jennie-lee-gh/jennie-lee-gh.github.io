@@ -51,3 +51,7 @@ So, fire up your smoker, gather your ingredients, and let the 4-2-10 method guid
 [4 2 10 brisket method](https://foxheightspubandgrill.com/post/4-2-10-brisket-method)
 
 <iframe src='https://foxheightspubandgrill.com/post/4-2-10-brisket-method' width='800' height='5'></iframe>
+
+![Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

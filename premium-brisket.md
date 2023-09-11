@@ -73,3 +73,5 @@ Premium brisket is a culinary delight that requires patience and proper techniqu
 [premium brisket](https://foxheightspubandgrill.com/post/premium-brisket)
 
 <iframe src='https://foxheightspubandgrill.com/post/premium-brisket' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

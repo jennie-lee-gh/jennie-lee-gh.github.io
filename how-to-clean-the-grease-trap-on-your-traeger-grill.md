@@ -6,6 +6,8 @@ title: "How to Clean the Grease Trap on Your Traeger Grill"
 
 ![how to clean the grease trap on your traeger grill](https://images.unsplash.com/photo-1487700160041-babef9c3cb55?ixid=M3w0ODkxMTF8MHwxfHNlYXJjaHwxfHxob3clMjB0byUyMGNsZWFuJTIwdGhlJTIwZ3JlYXNlJTIwdHJhcCUyMG9uJTIweW91ciUyMHRyYWVnZXIlMjBncmlsbHxlbnwwfHx8fDE2OTI4MDM3NDV8MA&ixlib=rb-4.0.3&w=512&fit=max)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 **Meta Description:** Learn how to effectively clean the grease trap on your Traeger grill to maintain its performance and prevent grease buildup. Keep your grilling experience top-notch!
 
 Grilling delicious food on your Traeger grill is always an enjoyable experience, but over time, the grease trap can accumulate grease and become dirty. Regular cleaning of the grease trap is essential to maintain your grill's performance and prolong its lifespan. In this guide, we will walk you through the step-by-step process of cleaning your Traeger grill's grease trap effectively.
@@ -75,3 +77,5 @@ Cleaning the grease trap on your Traeger grill is an essential task that should 
 [how to clean the grease trap on your traeger grill](https://foxheightspubandgrill.com/post/how-to-clean-the-grease-trap-on-your-traeger-grill)
 
 <iframe src='https://foxheightspubandgrill.com/post/how-to-clean-the-grease-trap-on-your-traeger-grill' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

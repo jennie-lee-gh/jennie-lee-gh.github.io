@@ -56,3 +56,5 @@ Smoking a tri tip on a pellet grill is a surefire way to impress your guests wit
 [how to smoke tri tip on pellet grill](https://foxheightspubandgrill.com/post/how-to-smoke-tri-tip-on-pellet-grill)
 
 <iframe src='https://foxheightspubandgrill.com/post/how-to-smoke-tri-tip-on-pellet-grill' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

@@ -75,3 +75,5 @@ With their fiery heat and smoky allure, smoked banana peppers are a versatile in
 [smoked banana peppers recipe](https://foxheightspubandgrill.com/post/smoked-banana-peppers-recipe)
 
 <iframe src='https://foxheightspubandgrill.com/post/smoked-banana-peppers-recipe' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

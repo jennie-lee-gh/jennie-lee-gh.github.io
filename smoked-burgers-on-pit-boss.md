@@ -72,3 +72,5 @@ Take your burger game to the next level with smoked burgers on a Pit Boss grill.
 [smoked burgers on pit boss](https://foxheightspubandgrill.com/post/smoked-burgers-on-pit-boss)
 
 <iframe src='https://foxheightspubandgrill.com/post/smoked-burgers-on-pit-boss' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

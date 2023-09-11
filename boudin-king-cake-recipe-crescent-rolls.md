@@ -51,4 +51,8 @@ Note: The recipe can be easily adapted to cater to your preferences and dietary 
 
 [boudin king cake recipe crescent rolls](https://foxheightspubandgrill.com/post/boudin-king-cake-recipe-crescent-rolls)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/boudin-king-cake-recipe-crescent-rolls' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

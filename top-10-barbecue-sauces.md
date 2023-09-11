@@ -55,3 +55,5 @@ Now that you have a list of the top 10 barbecue sauces, it's time to stock up an
 [top 10 barbecue sauces](https://foxheightspubandgrill.com/post/top-10-barbecue-sauces)
 
 <iframe src='https://foxheightspubandgrill.com/post/top-10-barbecue-sauces' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

@@ -46,4 +46,8 @@ Indulge in the epitome of flavor and tenderness with CAB Prime Brisket. This exc
 
 [cab prime brisket](https://foxheightspubandgrill.com/post/cab-prime-brisket)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/cab-prime-brisket' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

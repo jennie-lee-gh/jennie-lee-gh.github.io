@@ -49,3 +49,5 @@ When searching for authenticity and flavor in your homemade sausages, look no fu
 [malcolm's country sausage seasoning](https://foxheightspubandgrill.com/post/malcolm's-country-sausage-seasoning)
 
 <iframe src='https://foxheightspubandgrill.com/post/malcolm's-country-sausage-seasoning' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

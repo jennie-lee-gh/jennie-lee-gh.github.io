@@ -53,3 +53,5 @@ Unlock your culinary creativity and elevate your meals to a whole new level with
 [malcolms country sausage seasoning](https://foxheightspubandgrill.com/post/malcolms-country-sausage-seasoning)
 
 <iframe src='https://foxheightspubandgrill.com/post/malcolms-country-sausage-seasoning' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

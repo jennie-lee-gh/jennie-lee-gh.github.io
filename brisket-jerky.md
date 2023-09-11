@@ -60,4 +60,8 @@ Brisket jerky combines the best of both worlds - the intense flavor of brisket a
 
 [brisket jerky](https://foxheightspubandgrill.com/post/brisket-jerky)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/brisket-jerky' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

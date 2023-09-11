@@ -78,4 +78,8 @@ The Al Frugoni grill recipe is a true showstopper that will leave your taste bud
 
 [al frugoni grill recipe](https://foxheightspubandgrill.com/post/al-frugoni-grill-recipe)
 
+![Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/al-frugoni-grill-recipe' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

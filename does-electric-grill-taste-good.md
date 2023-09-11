@@ -56,4 +56,8 @@ Intrigued by the flavors of electric grilling? Click here to dive into the world
 
 [does electric grill taste good](https://foxheightspubandgrill.com/post/does-electric-grill-taste-good)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/does-electric-grill-taste-good' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

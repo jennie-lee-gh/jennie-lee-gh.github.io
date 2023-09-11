@@ -40,3 +40,5 @@ Click and read now to discover how to turn off your Traeger grill safely! Preven
 [how to safely turn off your traeger grill](https://foxheightspubandgrill.com/post/how-to-safely-turn-off-your-traeger-grill)
 
 <iframe src='https://foxheightspubandgrill.com/post/how-to-safely-turn-off-your-traeger-grill' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

@@ -51,3 +51,5 @@ The chain on a gas grill serves a crucial role in securing the grates or cooking
 [what is the chain for on a gas grill](https://foxheightspubandgrill.com/post/what-is-the-chain-for-on-a-gas-grill)
 
 <iframe src='https://foxheightspubandgrill.com/post/what-is-the-chain-for-on-a-gas-grill' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

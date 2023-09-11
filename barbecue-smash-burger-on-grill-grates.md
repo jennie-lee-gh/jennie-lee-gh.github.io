@@ -52,4 +52,8 @@ Elevate your grilling game with a barbecue smash burger on grill grates. Learn t
 
 [barbecue smash burger on grill grates](https://foxheightspubandgrill.com/post/barbecue-smash-burger-on-grill-grates)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/barbecue-smash-burger-on-grill-grates' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

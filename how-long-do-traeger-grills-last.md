@@ -6,6 +6,8 @@ title: "How Long Do Traeger Grills Last?"
 
 ![how long do traeger grills last](https://images.unsplash.com/photo-1617333387457-e5d7e2c43a99?ixid=M3w0ODkxMTF8MHwxfHNlYXJjaHwxfHxob3clMjBsb25nJTIwZG8lMjB0cmFlZ2VyJTIwZ3JpbGxzJTIwbGFzdHxlbnwwfHx8fDE2OTI4MDQ2MzR8MA&ixlib=rb-4.0.3&w=512&fit=max)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 ## Introduction
 
 Are you considering investing in a Traeger grill but want to know how long it will last before making a purchase? Well, you've come to the right place! In this article, we will explore the durability and lifespan of Traeger grills, helping you make an informed decision about this popular brand.
@@ -57,3 +59,5 @@ Discover how long Traeger grills can last and make an informed decision. With pr
 [how long do traeger grills last](https://foxheightspubandgrill.com/post/how-long-do-traeger-grills-last)
 
 <iframe src='https://foxheightspubandgrill.com/post/how-long-do-traeger-grills-last' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

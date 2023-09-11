@@ -64,3 +64,5 @@ Malcolm's Bird Brine recipe is a game-changer when it comes to poultry dishes. B
 [malcolms bird brine recipe](https://foxheightspubandgrill.com/post/malcolms-bird-brine-recipe)
 
 <iframe src='https://foxheightspubandgrill.com/post/malcolms-bird-brine-recipe' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

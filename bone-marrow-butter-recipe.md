@@ -56,4 +56,8 @@ Bone marrow butter is a delectable and unique addition to any recipe that calls 
 
 [bone marrow butter recipe](https://foxheightspubandgrill.com/post/bone-marrow-butter-recipe)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/bone-marrow-butter-recipe' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

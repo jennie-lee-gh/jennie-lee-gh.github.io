@@ -61,4 +61,8 @@ Grande Gringo Seasoning is a culinary gem that brings the taste of Mexico to you
 
 [grande gringo seasoning](https://foxheightspubandgrill.com/post/grande-gringo-seasoning)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/grande-gringo-seasoning' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

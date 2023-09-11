@@ -42,4 +42,8 @@ Remember, prioritize your safety and that of your loved ones when using any type
 
 [can you use a propane grill indoors](https://foxheightspubandgrill.com/post/can-you-use-a-propane-grill-indoors)
 
+![Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/can-you-use-a-propane-grill-indoors' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

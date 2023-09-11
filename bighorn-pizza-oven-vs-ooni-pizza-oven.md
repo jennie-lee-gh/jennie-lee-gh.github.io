@@ -58,4 +58,8 @@ Choosing between the Bighorn Pizza Oven and the Ooni Pizza Oven depends on your 
 
 [bighorn pizza oven vs ooni pizza oven](https://foxheightspubandgrill.com/post/bighorn-pizza-oven-vs-ooni-pizza-oven)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/bighorn-pizza-oven-vs-ooni-pizza-oven' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

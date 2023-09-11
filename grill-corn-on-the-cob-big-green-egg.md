@@ -48,4 +48,8 @@ Remember, practice makes perfect! With a little patience and the Big Green Egg a
 
 [grill corn on the cob big green egg](https://foxheightspubandgrill.com/post/grill-corn-on-the-cob-big-green-egg)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/grill-corn-on-the-cob-big-green-egg' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

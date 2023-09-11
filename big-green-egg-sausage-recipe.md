@@ -59,4 +59,8 @@ So, fire up that grill, prepare the sausages with love, and embark on a culinary
 
 [big green egg sausage recipe](https://foxheightspubandgrill.com/post/big-green-egg-sausage-recipe)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/big-green-egg-sausage-recipe' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

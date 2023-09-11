@@ -57,3 +57,5 @@ Prime brisket flat is a true delicacy that requires time, skill, and passion to 
 [prime brisket flat](https://foxheightspubandgrill.com/post/prime-brisket-flat)
 
 <iframe src='https://foxheightspubandgrill.com/post/prime-brisket-flat' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

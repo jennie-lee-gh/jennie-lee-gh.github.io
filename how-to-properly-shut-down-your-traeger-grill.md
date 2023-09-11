@@ -51,3 +51,5 @@ Now it’s time to shut down your Traeger grill the right way and extend its lif
 [how to properly shut down your traeger grill](https://foxheightspubandgrill.com/post/how-to-properly-shut-down-your-traeger-grill)
 
 <iframe src='https://foxheightspubandgrill.com/post/how-to-properly-shut-down-your-traeger-grill' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

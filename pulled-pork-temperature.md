@@ -59,3 +59,5 @@ Achieving the perfect pulled pork temperature is essential for tender, succulent
 [pulled pork temperature](https://foxheightspubandgrill.com/post/pulled-pork-temperature)
 
 <iframe src='https://foxheightspubandgrill.com/post/pulled-pork-temperature' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

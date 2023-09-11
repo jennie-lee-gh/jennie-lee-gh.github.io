@@ -75,3 +75,5 @@ Now that you're armed with these heating instructions, you can easily recreate t
 [spinellis steaks heating instructions](https://foxheightspubandgrill.com/post/spinellis-steaks-heating-instructions)
 
 <iframe src='https://foxheightspubandgrill.com/post/spinellis-steaks-heating-instructions' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

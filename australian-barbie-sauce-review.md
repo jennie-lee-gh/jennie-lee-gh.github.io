@@ -35,4 +35,8 @@ In the world of barbecuing, a great sauce can make all the difference. Australia
 
 [australian barbie sauce review](https://foxheightspubandgrill.com/post/australian-barbie-sauce-review)
 
+![Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/australian-barbie-sauce-review' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

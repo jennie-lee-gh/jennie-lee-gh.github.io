@@ -55,3 +55,5 @@ Remember that this article is written in Markdown format, and images are not inc
 [smoked turkey on primo grill](https://foxheightspubandgrill.com/post/smoked-turkey-on-primo-grill)
 
 <iframe src='https://foxheightspubandgrill.com/post/smoked-turkey-on-primo-grill' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

@@ -6,6 +6,8 @@ title: "How Long to Grill Burgers at 350 Degrees"
 
 ![how long to grill burgers at 350 degrees](https://images.unsplash.com/photo-1529557050046-60c5f1d35ea4?ixid=M3w0ODkxMTF8MHwxfHNlYXJjaHwxfHxob3clMjBsb25nJTIwdG8lMjBncmlsbCUyMGJ1cmdlcnMlMjBhdCUyMDM1MCUyMGRlZ3JlZXN8ZW58MHx8fHwxNjkyODAzNjU5fDA&ixlib=rb-4.0.3&w=512&fit=max)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 Grilling burgers is a classic American pastime that many people enjoy during the summer months. The key to perfectly grilled burgers lies in getting the timing just right. With a grill temperature of 350 degrees Fahrenheit, you can achieve deliciously juicy burgers with a slightly charred exterior. In this article, we will guide you through the recommended cooking times for grilling burgers at 350 degrees.
 
 ## Timing is Everything
@@ -52,3 +54,5 @@ Grilling burgers at 350 degrees Fahrenheit can yield tasty results in a reasonab
 [how long to grill burgers at 350 degrees](https://foxheightspubandgrill.com/post/how-long-to-grill-burgers-at-350-degrees)
 
 <iframe src='https://foxheightspubandgrill.com/post/how-long-to-grill-burgers-at-350-degrees' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

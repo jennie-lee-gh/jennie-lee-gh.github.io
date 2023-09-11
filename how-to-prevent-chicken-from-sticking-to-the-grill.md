@@ -6,6 +6,8 @@ title: "How to Prevent Chicken from Sticking to the Grill"
 
 ![how to prevent chicken from sticking to the grill](https://images.unsplash.com/photo-1471623817296-aa07ae5c9f47?ixid=M3w0ODkxMTF8MHwxfHNlYXJjaHwxfHxob3clMjB0byUyMHByZXZlbnQlMjBjaGlja2VuJTIwZnJvbSUyMHN0aWNraW5nJTIwdG8lMjB0aGUlMjBncmlsbHxlbnwwfHx8fDE2OTI4NDM2MDB8MA&ixlib=rb-4.0.3&w=512&fit=max)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 Grilling chicken is a delicious and healthy way to enjoy this versatile protein. However, one common problem faced by many grillers is chicken sticking to the grill grates. Not only does this make flipping and removing the chicken difficult, but it also results in a loss of flavor and texture. Fortunately, there are several simple yet effective techniques to prevent chicken from sticking to the grill. Read on to discover these helpful tips and enhance your grilling experience!
 
 ## Why Does Chicken Stick to the Grill?
@@ -51,3 +53,5 @@ By following these simple yet effective tips, you can prevent chicken from stick
 [how to prevent chicken from sticking to the grill](https://foxheightspubandgrill.com/post/how-to-prevent-chicken-from-sticking-to-the-grill)
 
 <iframe src='https://foxheightspubandgrill.com/post/how-to-prevent-chicken-from-sticking-to-the-grill' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

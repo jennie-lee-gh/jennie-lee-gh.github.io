@@ -71,3 +71,5 @@ A propane tank gauge for your RV is a small investment that provides significant
 [propane tank gauge for rv](https://foxheightspubandgrill.com/post/propane-tank-gauge-for-rv)
 
 <iframe src='https://foxheightspubandgrill.com/post/propane-tank-gauge-for-rv' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

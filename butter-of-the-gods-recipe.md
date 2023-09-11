@@ -50,4 +50,8 @@ The Butter of the Gods recipe is a simple and delectable way to transform ordina
 
 [butter of the gods recipe](https://foxheightspubandgrill.com/post/butter-of-the-gods-recipe)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/butter-of-the-gods-recipe' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

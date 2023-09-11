@@ -65,3 +65,5 @@ Congratulations! You have successfully mastered the art of preparing tender and 
 [smoked pulled pork recipe](https://foxheightspubandgrill.com/post/smoked-pulled-pork-recipe)
 
 <iframe src='https://foxheightspubandgrill.com/post/smoked-pulled-pork-recipe' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

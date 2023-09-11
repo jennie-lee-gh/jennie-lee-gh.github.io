@@ -61,3 +61,5 @@ By smoking tuna on a pellet grill, you unlock a world of culinary possibilities.
 [smoke tuna on a pellet grill](https://foxheightspubandgrill.com/post/smoke-tuna-on-a-pellet-grill)
 
 <iframe src='https://foxheightspubandgrill.com/post/smoke-tuna-on-a-pellet-grill' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

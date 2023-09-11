@@ -65,3 +65,5 @@ Now that you have mastered the art of smoking scallops on a pellet grill, it's t
 [how to smoke scallops on pellet grill](https://foxheightspubandgrill.com/post/how-to-smoke-scallops-on-pellet-grill)
 
 <iframe src='https://foxheightspubandgrill.com/post/how-to-smoke-scallops-on-pellet-grill' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

@@ -52,4 +52,8 @@ Investing in a high-quality grill like the Grill Hero not only enhances your cul
 
 [grill hero review](https://foxheightspubandgrill.com/post/grill-hero-review)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/grill-hero-review' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

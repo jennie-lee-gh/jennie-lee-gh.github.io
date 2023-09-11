@@ -48,3 +48,5 @@ Smoke porterhouse steak is a culinary masterpiece that combines the best of both
 [smoke_porterhouse_steak](https://foxheightspubandgrill.com/post/smoke_porterhouse_steak)
 
 <iframe src='https://foxheightspubandgrill.com/post/smoke_porterhouse_steak' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

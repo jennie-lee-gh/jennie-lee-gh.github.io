@@ -49,4 +49,8 @@ If you're on the hunt for the perfect chili seasoning, look no further than Bona
 
 [bonafide chili seasoning review](https://foxheightspubandgrill.com/post/bonafide-chili-seasoning-review)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/bonafide-chili-seasoning-review' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

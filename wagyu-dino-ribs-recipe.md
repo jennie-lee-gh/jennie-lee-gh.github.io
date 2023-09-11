@@ -63,3 +63,5 @@ Wagyu dino ribs represent the pinnacle of BBQ excellence, offering an unrivaled 
 [wagyu dino ribs recipe](https://foxheightspubandgrill.com/post/wagyu-dino-ribs-recipe)
 
 <iframe src='https://foxheightspubandgrill.com/post/wagyu-dino-ribs-recipe' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

@@ -58,3 +58,5 @@ Grilling burgers with the lid up or down is subjective, and there is no definiti
 [lid up or down when grilling burgers](https://foxheightspubandgrill.com/post/lid-up-or-down-when-grilling-burgers)
 
 <iframe src='https://foxheightspubandgrill.com/post/lid-up-or-down-when-grilling-burgers' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

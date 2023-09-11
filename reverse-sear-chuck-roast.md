@@ -65,3 +65,5 @@ By employing the reverse sear method, you can elevate the humble chuck roast int
 [reverse sear chuck roast](https://foxheightspubandgrill.com/post/reverse-sear-chuck-roast)
 
 <iframe src='https://foxheightspubandgrill.com/post/reverse-sear-chuck-roast' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

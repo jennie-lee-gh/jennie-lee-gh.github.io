@@ -56,4 +56,8 @@ By investing in one of the best vertical smokers, you can take your barbecue ski
 
 [best vertical smoker](https://foxheightspubandgrill.com/post/best-vertical-smoker)
 
+[Fox Heights Pub and Grill](https://foxheightspubandgrill.com/tools/sitemap)
+
 <iframe src='https://foxheightspubandgrill.com/post/best-vertical-smoker' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

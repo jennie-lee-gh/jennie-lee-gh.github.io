@@ -2,7 +2,9 @@
 ![Author Avatar](https://avatars.githubusercontent.com/u/131510772?v=4)
 Welcome to Jennie Lee's BBQ & Grills blog. A space where grill enthusiasts come to gather, learn, and share experiences. Whether you're here to discover the intricacies of the best grilling techniques or to dive into insightful product reviews, there's something for every BBQ lover. With a burning passion (pun intended) for everything grill-related, Jennie delves into the world of BBQs, ensuring that her readers are equipped with the knowledge to have the best grilling experience.
 [Check out this awesome site!](http://foxheightspubandgrill.com/)
+
 <iframe src='http://foxheightspubandgrill.com/' width='100%' height='500'></iframe>
+
 - [4-2-10-brisket-method](/4-2-10-brisket-method)
 - [al-frugoni-grill-recipe](/al-frugoni-grill-recipe)
 - [australian-barbie-sauce-review](/australian-barbie-sauce-review)
@@ -61,3 +63,5 @@ Welcome to Jennie Lee's BBQ & Grills blog. A space where grill enthusiasts come 
 - [what-is-the-chain-for-on-a-gas-grill](/what-is-the-chain-for-on-a-gas-grill)
 - [what-to-do-with-burnt-bacon](/what-to-do-with-burnt-bacon)
 - [whole-smoked-gator-recipe](/whole-smoked-gator-recipe)
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)

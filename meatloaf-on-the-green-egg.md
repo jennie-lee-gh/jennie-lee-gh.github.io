@@ -56,3 +56,5 @@ Now that you've mastered the art of cooking meatloaf on the Green Egg, it's time
 [meatloaf on the green egg](https://foxheightspubandgrill.com/post/meatloaf-on-the-green-egg)
 
 <iframe src='https://foxheightspubandgrill.com/post/meatloaf-on-the-green-egg' width='800' height='5'></iframe>
+
+[Fox Heights pub and grill shop](https://foxheightspubandgrill.com/tools/sitemap)
